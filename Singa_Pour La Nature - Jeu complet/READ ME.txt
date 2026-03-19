@@ -1,0 +1,2 @@
+GARDER LE FOLDER ASSETS DANS LE MEME FOLDER QUE LE FICHIER main.exe
+Executer le fichier main.exe
